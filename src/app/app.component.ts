@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pre-commit-hook-check';
+  var data = "Abhay"
 }
